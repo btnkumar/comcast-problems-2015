@@ -1,0 +1,37 @@
+[
+	{
+		"name" : "name 1",
+		"year" : 2001,
+		"tags" : [ "tag 11", "tag 12"]
+	},
+	{
+		"name" : "name 2",
+		"year" : 2002,
+		"tags" : [ "tag 21", "tag 22"]
+	},
+	{
+		"name" : "name 3",
+		"year" : 2003,
+		"tags" : [ "tag 31", "tag 32"]
+	},
+	{
+		"name" : "name 4",
+		"year" : 2004,
+		"tags" : [ "tag 41", "tag 42"]
+	},
+	{
+		"name" : "name 5",
+		"year" : 2005,
+		"tags" : [ "tag 51", "tag 52"]
+	},
+	{
+		"name" : "name 6",
+		"year" : 2006,
+		"tags" : [ "tag 61", "tag 62"]
+	},
+	{
+		"name" : "name 7",
+		"year" : 2007,
+		"tags" : [ "tag 71", "tag 72"]
+	}
+]
